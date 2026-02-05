@@ -21,6 +21,8 @@ modulation (R²>0.01 or p<0.1), including strong resonances at p=2,3,5,7,19
 and surprising peak at p=131 (p=0.047). Poisson statistics reject random 
 fluctuation at 7.5σ (p=6.5×10^{-14}). This establishes ζ(s)-zeros possess 
 discrete eigenmode structure analogous to quantum atomic spectra. 
+
+
 Update2:
 Systematic analysis of 2 million Riemann zeros reveals a universal 
 discrete prime resonance spectrum. 54.3\% of primes up to 150 exhibit 
